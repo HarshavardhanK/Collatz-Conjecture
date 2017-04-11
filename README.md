@@ -12,7 +12,7 @@ Consider the following operation on an arbitrary positive integer:
     
  The Collatz conjecture is: This process will eventually reach the number 1, regardless of which positive integer is chosen initially.
 
-That smallest i such that ai = 1 is called the total stopping time of n.
+That smallest i such that a[i] = 1 is called the total stopping time of n.
 The conjecture asserts that every n has a well-defined total stopping time.
 If, for some n, such an i doesn't exist, we say that n has infinite total stopping time and the conjecture is false.
 
