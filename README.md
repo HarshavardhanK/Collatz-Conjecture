@@ -23,17 +23,17 @@ Such a sequence might enter a repeating cycle that excludes 1, or increase witho
 
 Examples
 
-Number: 30
+Number: 30,
 19 steps required to reach 1
 
-Number: 3264181920
+Number: 3264181920,
 175 steps required to reach 1
 
-Number: 3021704999
+Number: 3021704999,
 100 steps required to reach 1
 
-Number: 446806138
+Number: 446806138,
 211 steps required to reach 1
 
-Number: 2864356108
+Number: 2864356108,
 180 steps required to reach 1
