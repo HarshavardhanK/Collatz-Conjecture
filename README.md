@@ -1,7 +1,5 @@
 # Collatz-Conjecture
 
-// All rights reserved by the author of this Collatz Conjecture Wikipedia page
-
 The conjecture can be summarized as follows. Take any positive integer n.
 If n is even, divide it by 2 to get n / 2. If n is odd, multiply it by 3 and add 1 to obtain 3n + 1. 
 Repeat the process (which has been called "Half Or Triple Plus One", or HOTPO[7]) indefinitely. 
