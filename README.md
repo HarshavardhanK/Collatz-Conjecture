@@ -20,3 +20,20 @@ If, for some n, such an i doesn't exist, we say that n has infinite total stoppi
 
 If the conjecture is false, it can only be because there is some starting number which gives rise to a sequence that does not contain 1. 
 Such a sequence might enter a repeating cycle that excludes 1, or increase without bound. No such sequence has been found.
+
+Examples
+
+Number: 30
+19 steps required to reach 1
+
+Number: 3264181920
+175 steps required to reach 1
+
+Number: 3021704999
+100 steps required to reach 1
+
+Number: 446806138
+211 steps required to reach 1
+
+Number: 2864356108
+180 steps required to reach 1
